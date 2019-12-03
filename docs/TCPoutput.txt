@@ -1,0 +1,100 @@
+[System Process]	0	TCP	desktop-1h7uc6l	50837	sea30s02-in-f13.1e100.net	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-1h7uc6l	50923	40.121.3.131	https	TIME_WAIT										
+[System Process]	0	TCP	desktop-1h7uc6l	50958	72.21.91.29	http	TIME_WAIT										
+[System Process]	0	TCP	desktop-1h7uc6l	50959	a23-61-187-27.deploy.static.akamaitechnologies.com	http	TIME_WAIT										
+[System Process]	0	TCP	desktop-1h7uc6l	50960	a23-61-187-27.deploy.static.akamaitechnologies.com	http	TIME_WAIT										
+[System Process]	0	TCP	desktop-1h7uc6l	50961	151.139.128.14	http	TIME_WAIT										
+[System Process]	0	TCP	desktop-1h7uc6l	50962	a23-208-142-2.deploy.static.akamaitechnologies.com	http	TIME_WAIT										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50839	sea15s12-in-f206.1e100.net	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50864	a23-196-203-197.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50865	a23-196-203-197.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50866	a23-196-203-197.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50869	a23-196-203-197.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50874	64.4.54.254	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50875	sea15s11-in-f174.1e100.net	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50878	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50879	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50880	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50881	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50883	64.4.54.254	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50884	a23-194-100-254.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50885	a23-194-100-254.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50888	a23-194-100-254.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50889	a23-194-100-254.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50891	a23-194-100-254.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50895	72.166.126.17	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50896	a23-196-193-158.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50911	64.4.54.254	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50914	a104-76-175-139.deploy.static.akamaitechnologies.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50917	a23-4-224-159.deploy.static.akamaitechnologies.com	http	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50920	sea30s01-in-f10.1e100.net	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50924	sea15s11-in-f3.1e100.net	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50972	151.101.52.133	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50985	185.199.111.154	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50987	185.199.111.154	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50994	lb-192-30-255-113-sea.github.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50995	den03s10-in-f35.1e100.net	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50997	lb-192-30-255-113-sea.github.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50998	lb-192-30-255-117-sea.github.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	50999	ec2-34-228-50-102.compute-1.amazonaws.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	51001	lb-192-30-255-113-sea.github.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	51002	lb-192-30-253-124-iad.github.com	https	ESTABLISHED										
+chrome.exe	7452	TCP	desktop-1h7uc6l	51003	lb-192-30-255-113-sea.github.com	https	ESTABLISHED										
+chrome.exe	7236	UDP	DESKTOP-1H7UC6L	5353	*	*											
+chrome.exe	7236	UDP	DESKTOP-1H7UC6L	5353	*	*											
+chrome.exe	7236	UDPV6	desktop-1h7uc6l	5353	*	*											
+lsass.exe	552	TCP	DESKTOP-1H7UC6L	49664	DESKTOP-1H7UC6L	0	LISTENING										
+lsass.exe	552	TCPV6	desktop-1h7uc6l	49664	desktop-1h7uc6l	0	LISTENING										
+MicrosoftEdgeCP.exe	4188	TCP	desktop-1h7uc6l	50387	72.21.91.29	http	CLOSE_WAIT										
+MicrosoftEdgeCP.exe	4188	TCP	desktop-1h7uc6l	50388	72.166.126.10	https	CLOSE_WAIT										
+MicrosoftEdgeCP.exe	4188	TCP	desktop-1h7uc6l	50389	72.166.126.10	https	CLOSE_WAIT										
+MicrosoftEdgeCP.exe	4188	TCP	desktop-1h7uc6l	50390	72.166.126.35	https	CLOSE_WAIT										
+MicrosoftEdgeCP.exe	4188	TCP	desktop-1h7uc6l	50391	72.166.126.35	https	CLOSE_WAIT										
+MicrosoftEdgeCP.exe	4188	TCP	desktop-1h7uc6l	50392	72.166.126.35	https	CLOSE_WAIT										
+MicrosoftEdgeCP.exe	4188	TCP	desktop-1h7uc6l	50393	72.166.126.35	https	CLOSE_WAIT										
+MicrosoftEdgeCP.exe	4188	TCP	desktop-1h7uc6l	50394	72.166.126.35	https	CLOSE_WAIT										
+MicrosoftEdgeCP.exe	4188	TCP	desktop-1h7uc6l	50395	72.166.126.35	https	CLOSE_WAIT										
+MicrosoftEdgeCP.exe	4188	TCP	desktop-1h7uc6l	50396	204.79.197.220	https	CLOSE_WAIT										
+MicrosoftEdgeCP.exe	4188	TCP	desktop-1h7uc6l	50397	204.79.197.220	https	CLOSE_WAIT										
+MsMpEng.exe	2392	TCP	desktop-1h7uc6l	50992	40.121.3.131	https	ESTABLISHED										
+SearchUI.exe	4272	TCP	desktop-1h7uc6l	51004	204.79.197.220	https	ESTABLISHED										
+SearchUI.exe	4272	TCP	desktop-1h7uc6l	51005	13.107.136.254	https	ESTABLISHED										
+SearchUI.exe	4272	TCP	desktop-1h7uc6l	51006	13.107.246.254	https	ESTABLISHED										
+SearchUI.exe	4272	TCP	desktop-1h7uc6l	51007	13.107.6.254	https	ESTABLISHED										
+SearchUI.exe	4272	TCP	desktop-1h7uc6l	51008	204.79.197.222	https	ESTABLISHED										
+services.exe	544	TCP	DESKTOP-1H7UC6L	49672	DESKTOP-1H7UC6L	0	LISTENING										
+services.exe	544	TCPV6	desktop-1h7uc6l	49672	desktop-1h7uc6l	0	LISTENING										
+spoolsv.exe	1412	TCP	DESKTOP-1H7UC6L	49669	DESKTOP-1H7UC6L	0	LISTENING										
+spoolsv.exe	1412	TCPV6	desktop-1h7uc6l	49669	desktop-1h7uc6l	0	LISTENING										
+svchost.exe	772	TCP	DESKTOP-1H7UC6L	epmap	DESKTOP-1H7UC6L	0	LISTENING										
+svchost.exe	3640	TCP	DESKTOP-1H7UC6L	5040	DESKTOP-1H7UC6L	0	LISTENING										
+svchost.exe	1064	TCP	DESKTOP-1H7UC6L	49666	DESKTOP-1H7UC6L	0	LISTENING										
+svchost.exe	396	TCP	DESKTOP-1H7UC6L	49667	DESKTOP-1H7UC6L	0	LISTENING										
+svchost.exe	2412	TCP	desktop-1h7uc6l	49689	52.242.211.89	https	ESTABLISHED										
+svchost.exe	2412	TCP	desktop-1h7uc6l	49723	52.242.211.89	https	ESTABLISHED										
+svchost.exe	5756	TCP	DESKTOP-1H7UC6L	ms-do	DESKTOP-1H7UC6L	0	LISTENING										
+svchost.exe	5764	UDP	desktop-1h7uc6l	ssdp	*	*											
+svchost.exe	5764	UDP	DESKTOP-1H7UC6L	ssdp	*	*											
+svchost.exe	3640	UDP	DESKTOP-1H7UC6L	5050	*	*											
+svchost.exe	1480	UDP	DESKTOP-1H7UC6L	5353	*	*											
+svchost.exe	1480	UDP	DESKTOP-1H7UC6L	llmnr	*	*											
+svchost.exe	5764	UDP	desktop-1h7uc6l	58877	*	*											
+svchost.exe	5764	UDP	DESKTOP-1H7UC6L	58878	*	*											
+svchost.exe	2500	UDP	DESKTOP-1H7UC6L	61777	*	*											
+svchost.exe	772	TCPV6	desktop-1h7uc6l	epmap	desktop-1h7uc6l	0	LISTENING										
+svchost.exe	5756	TCPV6	desktop-1h7uc6l	ms-do	desktop-1h7uc6l	0	LISTENING										
+svchost.exe	1064	TCPV6	desktop-1h7uc6l	49666	desktop-1h7uc6l	0	LISTENING										
+svchost.exe	396	TCPV6	desktop-1h7uc6l	49667	desktop-1h7uc6l	0	LISTENING										
+svchost.exe	5764	UDPV6	[0:0:0:0:0:0:0:1]	1900	*	*											
+svchost.exe	5764	UDPV6	[fe80:0:0:0:41a6:8719:6d28:ad11]	1900	*	*											
+svchost.exe	1480	UDPV6	desktop-1h7uc6l	5353	*	*											
+svchost.exe	1480	UDPV6	desktop-1h7uc6l	5355	*	*											
+svchost.exe	5764	UDPV6	[fe80:0:0:0:41a6:8719:6d28:ad11]	58875	*	*											
+svchost.exe	5764	UDPV6	[0:0:0:0:0:0:0:1]	58876	*	*											
+System	4	TCP	desktop-1h7uc6l	netbios-ssn	DESKTOP-1H7UC6L	0	LISTENING										
+System	4	TCP	DESKTOP-1H7UC6L	microsoft-ds	DESKTOP-1H7UC6L	0	LISTENING										
+System	4	UDP	desktop-1h7uc6l	netbios-ns	*	*											
+System	4	UDP	desktop-1h7uc6l	netbios-dgm	*	*											
+System	4	TCPV6	desktop-1h7uc6l	microsoft-ds	desktop-1h7uc6l	0	LISTENING										
+wininit.exe	452	TCP	DESKTOP-1H7UC6L	49665	DESKTOP-1H7UC6L	0	LISTENING										
+wininit.exe	452	TCPV6	desktop-1h7uc6l	49665	desktop-1h7uc6l	0	LISTENING										
